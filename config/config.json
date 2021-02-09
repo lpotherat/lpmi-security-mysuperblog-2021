@@ -1,0 +1,5 @@
+{
+    "super-admin-password":"**!Sup3r-Adm1N-S3curEd!**",
+    "session.save_path":"../sessions",
+    "db-filename":"sqlite:../var/db.sqlite"
+}
